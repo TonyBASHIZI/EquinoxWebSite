@@ -49,7 +49,7 @@
         <div class="row">
 
             <div class="col-lg-6 video-box align-self-baseline" data-aos="zoom-in" data-aos-delay="100">
-                <img src="../assets/img/about.jpg" class="img-fluid" alt="">
+                <img src="../assets/img/equinoxlogo.PNG" class="img-fluid" alt="">
                 <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox play-btn mb-4"></a>
             </div>
 
@@ -95,7 +95,7 @@
         <div class="row">
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                 <div class="card">
-                    <img src="../assets/img/about-boxes-1.jpg" class="card-img-top" alt="...">
+                    <img src="../assets/img/service1.PNG" class="card-img-top" alt="...">
                     <div class="card-icon">
                         <i class="ri-brush-4-line"></i>
                     </div>
@@ -109,7 +109,7 @@
             </div>
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
                 <div class="card">
-                    <img src="../assets/img/about-boxes-2.jpg" class="card-img-top" alt="...">
+                    <img src="../assets/img/service2.PNG" class="card-img-top" alt="...">
                     <div class="card-icon">
                         <i class="ri-calendar-check-line"></i>
                     </div>
@@ -123,7 +123,7 @@
             </div>
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
                 <div class="card">
-                    <img src="../assets/img/about-boxes-3.jpg" class="card-img-top" alt="...">
+                    <img src="../assets/img/service1.PNG" class="card-img-top" alt="...">
                     <div class="card-icon">
                         <i class="ri-movie-2-line"></i>
                     </div>
@@ -185,7 +185,7 @@
             <li class="nav-item col-3">
                 <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">
                     <i class="ri-gps-line"></i>
-                    <h4 class="d-none d-lg-block">Modi sit est dela pireda nest</h4>
+                    <h4 class="d-none d-lg-block">Nos services</h4>
                 </a>
             </li>
             <li class="nav-item col-3">
@@ -212,7 +212,7 @@
             <div class="tab-pane active show" id="tab-1">
                 <div class="row">
                     <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                        <h3>À PROPOS D’EQUINOX MÉDIA
+                        <h3>EQUINOX MÉDIA
                             GROUP
                         </h3>
                         <p class="fst-italic">
@@ -536,7 +536,7 @@
     <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-            <h2>Portfolio</h2>
+            <h2>Equinox</h2>
             <p>Check our Portfolio</p>
         </div>
 
@@ -544,9 +544,9 @@
             <div class="col-lg-12 d-flex justify-content-center">
                 <ul id="portfolio-flters">
                     <li data-filter="*" class="filter-active">All</li>
-                    <li data-filter=".filter-app">App</li>
-                    <li data-filter=".filter-card">Card</li>
-                    <li data-filter=".filter-web">Web</li>
+                    <li data-filter=".filter-app">Panneaux</li>
+                    <li data-filter=".filter-card">Equitment</li>
+                    <li data-filter=".filter-web">Design</li>
                 </ul>
             </div>
         </div>
@@ -554,11 +554,11 @@
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                <img src="../assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+                <img src="../assets/img/printer1.PNG" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                    <h4>App 1</h4>
-                    <p>App</p>
-                    <a href="../assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery"
+                    <h4>Printer</h4>
+                    <p>HD</p>
+                    <a href="../assets/img/printer1.PNG" data-gallery="portfolioGallery"
                         class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
                     <a href="portfolio-details.html" class="details-link" title="More Details"><i
                             class="bx bx-link"></i></a>
@@ -566,11 +566,11 @@
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                <img src="../assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+                <img src="../assets/img/printer3.PNG" class="img-fluid" alt="">
                 <div class="portfolio-info">
                     <h4>Web 3</h4>
                     <p>Web</p>
-                    <a href="../assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery"
+                    <a href="../assets/img/printer3.PNG" data-gallery="portfolioGallery"
                         class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
                     <a href="portfolio-details.html" class="details-link" title="More Details"><i
                             class="bx bx-link"></i></a>
@@ -578,11 +578,11 @@
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                <img src="../assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+                <img src="../assets/img/service2.PNG" class="img-fluid" alt="">
                 <div class="portfolio-info">
                     <h4>App 2</h4>
                     <p>App</p>
-                    <a href="../assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery"
+                    <a href="../assets/img/service2.PNG" data-gallery="portfolioGallery"
                         class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
                     <a href="portfolio-details.html" class="details-link" title="More Details"><i
                             class="bx bx-link"></i></a>
@@ -590,11 +590,11 @@
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                <img src="../assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+                <img src="../assets/img/smallcellsamsterdam96f7.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
                     <h4>Card 2</h4>
                     <p>Card</p>
-                    <a href="../assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery"
+                    <a href="../assets/img/smallcellsamsterdam96f7.jpg" data-gallery="portfolioGallery"
                         class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
                     <a href="portfolio-details.html" class="details-link" title="More Details"><i
                             class="bx bx-link"></i></a>
@@ -602,11 +602,11 @@
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                <img src="../assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+                <img src="../assets/img/portfolio/printer2.PNG" class="img-fluid" alt="">
                 <div class="portfolio-info">
                     <h4>Web 2</h4>
                     <p>Web</p>
-                    <a href="../assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery"
+                    <a href="../assets/img/printer2.PNG" data-gallery="portfolioGallery"
                         class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
                     <a href="portfolio-details.html" class="details-link" title="More Details"><i
                             class="bx bx-link"></i></a>
@@ -614,7 +614,7 @@
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                <img src="../assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+                <img src="../assets/img/printer2.PNG" class="img-fluid" alt="">
                 <div class="portfolio-info">
                     <h4>App 3</h4>
                     <p>App</p>
