@@ -35,7 +35,7 @@
         <header class="navbar navbar-fixed">
             <div class="navbar--header">
                 <a href="index.html" class="logo">
-                    <img src="assets/img/logo.png" alt="" />
+                    <img src="../assets/img/logo.png" alt="" />
                 </a>
                 <a href="#" class="navbar--btn" data-toggle="sidebar" title="Toggle Sidebar">
                     <i class="fa fa-bars"></i>
@@ -206,7 +206,7 @@
             </div>
 
         </aside>
-        <?=$content?>
+        <?= $content ?>
     </div>
     <script src="../assets/js/jquery.min.js"></script>
     <script src="../assets/js/jquery-ui.min.js"></script>

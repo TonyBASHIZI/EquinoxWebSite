@@ -11,7 +11,7 @@
                             <i class="bi bi-emoji-smile"></i>
                             <span data-purecounter-start="0" data-purecounter-end="125" data-purecounter-duration="1"
                                 class="purecounter"></span>
-                            <p>Happy Clients</p>
+                            <p>Clients contents</p>
                         </div>
                     </div>
 
@@ -29,7 +29,7 @@
                             <i class="bi bi-clock"></i>
                             <span data-purecounter-start="0" data-purecounter-end="35" data-purecounter-duration="1"
                                 class="purecounter"></span>
-                            <p>Years of experience</p>
+                            <p>Experiences</p>
                         </div>
                     </div>
 
@@ -38,7 +38,7 @@
                             <i class="bi bi-award"></i>
                             <span data-purecounter-start="0" data-purecounter-end="48" data-purecounter-duration="1"
                                 class="purecounter"></span>
-                            <p>Awards</p>
+                            <p>Prix d'appreciation</p>
                         </div>
                     </div>
 
@@ -49,8 +49,8 @@
         <div class="row">
 
             <div class="col-lg-6 video-box align-self-baseline" data-aos="zoom-in" data-aos-delay="100">
-                <img src="../assets/img/equinoxlogo.PNG" class="img-fluid" alt="">
-                <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox play-btn mb-4"></a>
+                <img src="../assets/img/pub3.PNG" class="img-fluid" alt="">
+                <a href="../assets/img/splashEquinox.mp4" class="glightbox play-btn mb-4"></a>
             </div>
 
             <div class="col-lg-6 pt-3 pt-lg-0 content">
@@ -100,10 +100,14 @@
                         <i class="ri-brush-4-line"></i>
                     </div>
                     <div class="card-body">
-                        <h5 class="card-title"><a href="">Our Mission</a></h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut
-                            labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                            laboris nisi ut aliquip ex ea commodo consequat. </p>
+                        <h5 class="card-title"><a href="">Impression HD</a></h5>
+                        <p class="card-text"> Autocollants de sol - Mannequins
+                            - Lettres 3D
+                            - Gravures
+                            - Marquage de véhicules
+                            - Casquettes, Cha peaux ronds
+                            - Vestes, pull-overs - Badges
+                            - Parapluies </p>
                     </div>
                 </div>
             </div>
@@ -114,10 +118,12 @@
                         <i class="ri-calendar-check-line"></i>
                     </div>
                     <div class="card-body">
-                        <h5 class="card-title"><a href="">Our Plan</a></h5>
-                        <p class="card-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque
-                            laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-                            architecto beatae vitae dicta sunt explicabo. </p>
+                        <h5 class="card-title"><a href="">Design Equinox</a></h5>
+                        <p class="card-text"> Tasses
+                            - Porte-noms
+                            - Sacs de conférence - Tapis de souris
+                            - Stylos
+                            - Brassards de whist - Corbeilles à papier - Couvre-pneus</p>
                     </div>
                 </div>
             </div>
@@ -128,10 +134,12 @@
                         <i class="ri-movie-2-line"></i>
                     </div>
                     <div class="card-body">
-                        <h5 class="card-title"><a href="">Our Vision</a></h5>
-                        <p class="card-text">Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia
-                            magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui
-                            dolorem ipsum quia dolor sit amet. </p>
+                        <h5 class="card-title"><a href="">Publicitaire</a></h5>
+                        <p class="card-text"> Affiches
+                            - Brochures
+                            - Drapeaux en papier - Flyers
+                            - Cartes de vœux - Cartes de saison - Magazines
+                            - Cartes de visite - Cartes d'invitation</p>
                     </div>
                 </div>
             </div>
@@ -185,25 +193,25 @@
             <li class="nav-item col-3">
                 <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">
                     <i class="ri-gps-line"></i>
-                    <h4 class="d-none d-lg-block">Nos services</h4>
+                    <h4 class="d-none d-lg-block">IMPRESSIONS</h4>
                 </a>
             </li>
             <li class="nav-item col-3">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-2">
                     <i class="ri-body-scan-line"></i>
-                    <h4 class="d-none d-lg-block">Unde praesenti mara setra le</h4>
+                    <h4 class="d-none d-lg-block">PANNEAUX</h4>
                 </a>
             </li>
             <li class="nav-item col-3">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-3">
                     <i class="ri-sun-line"></i>
-                    <h4 class="d-none d-lg-block">Pariatur explica nitro dela</h4>
+                    <h4 class="d-none d-lg-block">DESIGN SUR LES OBJETS</h4>
                 </a>
             </li>
             <li class="nav-item col-3">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-4">
                     <i class="ri-store-line"></i>
-                    <h4 class="d-none d-lg-block">Nostrum qui dile node</h4>
+                    <h4 class="d-none d-lg-block">IMPRESSION SUR TOUT OBJET</h4>
                 </a>
             </li>
         </ul>
@@ -264,95 +272,77 @@
                         </ul>
                     </div>
                     <div class="col-lg-6 order-1 order-lg-2 text-center">
-                        <img src="../assets/img/features-1.png" alt="" class="img-fluid">
+                        <img src="../assets/img/printer1.PNG" alt="" class="img-fluid">
                     </div>
                 </div>
             </div>
             <div class="tab-pane" id="tab-2">
                 <div class="row">
                     <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                        <h3>Neque exercitationem debitis soluta quos debitis quo mollitia officia est</h3>
+                        <h3>PARC DES PANNEAUX PUBLICITAIRES</h3>
                         <p>
-                            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-                            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                            occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-                            id est laborum
+                            Nous disposons de plusieurs panneaux publicitaires dans les villes comme a Bukavu et bientot
+                            partout dans le pays
                         </p>
-                        <p class="fst-italic">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua.
-                        </p>
+
                         <ul>
-                            <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat.</li>
-                            <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate
-                                velit.</li>
-                            <li><i class="ri-check-double-line"></i> Provident mollitia neque rerum asperiores dolores
-                                quos qui a. Ipsum neque dolor voluptate nisi sed.</li>
-                            <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda
-                                mastiro dolore eu fugiat nulla pariatur.</li>
+                            <li><i class="ri-check-double-line"></i> Port bwindi Bukavu dimension 10x8/1 faces</li>
+                            <li><i class="ri-check-double-line"></i> Place de l'independance dimension 10x6 faces 1</li>
+                            <li><i class="ri-check-double-line"></i> Hopital general/Port ihusi dimension 10x8 faces 1
+                            </li>
+                            <li><i class="ri-check-double-line"></i> Stade funo dimension 12x6 faces 1</li>
+                            <li><i class="ri-check-double-line"></i> Carrefour dimension 12x6 faces 1</li>
                         </ul>
                     </div>
                     <assets class="col-lg-6 order-1 order-lg-2 text-center">
-                        <img src="../assets/img/features-2.png" alt="" class="img-fluid">
+                        <img src="../assets/img/pub6.PNG" alt="" class="img-fluid">
                 </div>
             </div>
         </div>
         <div class="tab-pane" id="tab-3">
             <div class="row">
                 <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                    <h3>Voluptatibus commodi ut accusamus ea repudiandae ut autem dolor ut assumenda</h3>
+                    <h3>Nous sommes partout dans la ville</h3>
                     <p>
-                        Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-                        reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                        occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-                        id est laborum
+                        Faites vous connaitre par nos panneaux publicitaires
                     </p>
                     <ul>
-                        <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo
-                            consequat.</li>
-                        <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate
-                            velit.</li>
-                        <li><i class="ri-check-double-line"></i> Provident mollitia neque rerum asperiores dolores
-                            quos qui a. Ipsum neque dolor voluptate nisi sed.</li>
+                        <li><i class="ri-check-double-line"></i> Port bwindi Bukavu dimension 10x8/1 faces</li>
+                        <li><i class="ri-check-double-line"></i> Place de l'independance dimension 10x6 faces 1</li>
+                        <li><i class="ri-check-double-line"></i> Hopital general/Port ihusi dimension 10x8 faces 1
+                        </li>
+                        <li><i class="ri-check-double-line"></i> Stade funo dimension 12x6 faces 1</li>
+                        <li><i class="ri-check-double-line"></i> Carrefour dimension 12x6 faces 1</li>
                     </ul>
                     <p class="fst-italic">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua.
+                        Nos services sont disponible et de confiance
                     </p>
                 </div>
                 <div class="col-lg-6 order-1 order-lg-2 text-center">
-                    <img src="../assets/img/features-3.png" alt="" class="img-fluid">
+                    <img src="../assets/img/pub1.PNG" alt="" class="img-fluid">
                 </div>
             </div>
         </div>
         <div class="tab-pane" id="tab-4">
             <div class="row">
                 <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                    <h3>Omnis fugiat ea explicabo sunt dolorum asperiores sequi inventore rerum</h3>
+                    <h3>EQUINOX</h3>
                     <p>
-                        Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-                        reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                        occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-                        id est laborum
+                        Nous disposons de plusieurs panneaux publicitaires dans les villes comme a Bukavu et bientot
+                        partout dans le pays
                     </p>
-                    <p class="fst-italic">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua.
-                    </p>
+
                     <ul>
-                        <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo
-                            consequat.</li>
-                        <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate
-                            velit.</li>
-                        <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo
-                            consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda
-                            mastiro dolore eu fugiat nulla pariatur.</li>
+                        <li><i class="ri-check-double-line"></i> Port bwindi Bukavu dimension 10x8/1 faces</li>
+                        <li><i class="ri-check-double-line"></i> Place de l'independance dimension 10x6 faces 1</li>
+                        <li><i class="ri-check-double-line"></i> Hopital general/Port ihusi dimension 10x8 faces 1
+                        </li>
+                        <li><i class="ri-check-double-line"></i> Stade funo dimension 12x6 faces 1</li>
+                        <li><i class="ri-check-double-line"></i> Carrefour dimension 12x6 faces 1</li>
                     </ul>
                 </div>
                 <div class="col-lg-6 order-1 order-lg-2 text-center">
-                    <img src="../assets/img/features-4.png" alt="" class="img-fluid">
+                    <img src="../assets/img/pub5.PNG" alt="" class="img-fluid">
                 </div>
             </div>
         </div>
@@ -368,7 +358,7 @@
 
         <div class="section-title">
             <h2>Services</h2>
-            <p>Check our Services</p>
+            <p>Equinox Services</p>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="200">
@@ -445,14 +435,11 @@
 
                 <div class="swiper-slide">
                     <div class="testimonial-item">
-                        <img src="../assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                        <h3>Saul Goodman</h3>
-                        <h4>Ceo &amp; Founder</h4>
+                        <img src="../assets/img/clients/Artboard 106-8.png" class="testimonial-img" alt="">
+                        <h3>Partenaire</h3>
+                        <h4>Equinox </h4>
                         <p>
-                            <i class="bx bxs-quote-alt-left quote-icon-left"></i> Proin iaculis purus consequat sem cure
-                            digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id,
-                            aliquam eget nibh et. Maecen aliquam,
-                            risus at semper.
+                            <i class="bx bxs-quote-alt-left quote-icon-left"></i> Satisfait par le service de Equinox
                             <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
                     </div>
@@ -461,14 +448,11 @@
 
                 <div class="swiper-slide">
                     <div class="testimonial-item">
-                        <img src="../assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                        <h3>Sara Wilsson</h3>
-                        <h4>Designer</h4>
+                        <img src="../assets/img/clients/Artboard 105-8.png" class="testimonial-img" alt="">
+                        <h3>Partenaire</h3>
+                        <h4>Equinox </h4>
                         <p>
-                            <i class="bx bxs-quote-alt-left quote-icon-left"></i> Export tempor illum tamen malis malis
-                            eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit
-                            sunt aliqua noster fugiat irure
-                            amet legam anim culpa.
+                            <i class="bx bxs-quote-alt-left quote-icon-left"></i> Satisfait par le service de Equinox
                             <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
                     </div>
@@ -478,13 +462,10 @@
                 <div class="swiper-slide">
                     <div class="testimonial-item">
                         <img src="../assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                        <h3>Jena Karlis</h3>
-                        <h4>Store Owner</h4>
+                        <h3>Partenaire</h3>
+                        <h4>Equinox </h4>
                         <p>
-                            <i class="bx bxs-quote-alt-left quote-icon-left"></i> Enim nisi quem export duis labore
-                            cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis
-                            noster aute amet eram fore quis sint
-                            minim.
+                            <i class="bx bxs-quote-alt-left quote-icon-left"></i>Satisfait par le service de Equinox
                             <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
                     </div>
@@ -494,13 +475,10 @@
                 <div class="swiper-slide">
                     <div class="testimonial-item">
                         <img src="../assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                        <h3>Matt Brandon</h3>
-                        <h4>Freelancer</h4>
+                        <h3>Partenaire</h3>
+                        <h4>Equinox </h4>
                         <p>
-                            <i class="bx bxs-quote-alt-left quote-icon-left"></i> Fugiat enim eram quae cillum dolore
-                            dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam
-                            ipsum anim magna sunt elit fore quem
-                            dolore labore illum veniam.
+                            <i class="bx bxs-quote-alt-left quote-icon-left"></i> Satisfait par le service de Equinox
                             <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
                     </div>
@@ -513,10 +491,7 @@
                         <h3>John Larson</h3>
                         <h4>Entrepreneur</h4>
                         <p>
-                            <i class="bx bxs-quote-alt-left quote-icon-left"></i> Quis quorum aliqua sint quem legam
-                            fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa
-                            nulla illum cillum fugiat legam esse
-                            veniam culpa fore nisi cillum quid.
+                            <i class="bx bxs-quote-alt-left quote-icon-left"></i> Satisfait par le service de Equinox
                             <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
                     </div>
@@ -537,7 +512,7 @@
 
         <div class="section-title">
             <h2>Equinox</h2>
-            <p>Check our Portfolio</p>
+            <p>Gallerie</p>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
@@ -590,11 +565,11 @@
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                <img src="../assets/img/smallcellsamsterdam96f7.jpg" class="img-fluid" alt="">
+                <img src="../assets/img/Artboard 51-8.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                     <h4>Card 2</h4>
                     <p>Card</p>
-                    <a href="../assets/img/smallcellsamsterdam96f7.jpg" data-gallery="portfolioGallery"
+                    <a href="../assets/img/Artboard 51-8.png" data-gallery="portfolioGallery"
                         class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
                     <a href="portfolio-details.html" class="details-link" title="More Details"><i
                             class="bx bx-link"></i></a>
@@ -618,7 +593,7 @@
                 <div class="portfolio-info">
                     <h4>App 3</h4>
                     <p>App</p>
-                    <a href="../assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery"
+                    <a href="../assets/img/portfolio/printer2.PNG" data-gallery="portfolioGallery"
                         class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
                     <a href="portfolio-details.html" class="details-link" title="More Details"><i
                             class="bx bx-link"></i></a>
@@ -626,11 +601,11 @@
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                <img src="../assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+                <img src="../assets/img/portfolio/Artboard 76-8.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                     <h4>Card 1</h4>
                     <p>Card</p>
-                    <a href="../assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery"
+                    <a href="../assets/img/portfolio/Artboard 76-8.png" data-gallery="portfolioGallery"
                         class="portfolio-lightbox preview-link" title="Card 1"><i class="bx bx-plus"></i></a>
                     <a href="portfolio-details.html" class="details-link" title="More Details"><i
                             class="bx bx-link"></i></a>
@@ -638,11 +613,11 @@
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                <img src="../assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+                <img src="../assets/img/Artboard 86-8.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                     <h4>Card 3</h4>
                     <p>Card</p>
-                    <a href="../assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery"
+                    <a href="../assets/img/Artboard 86-8.png" data-gallery="portfolioGallery"
                         class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
                     <a href="portfolio-details.html" class="details-link" title="More Details"><i
                             class="bx bx-link"></i></a>
@@ -650,11 +625,34 @@
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                <img src="../assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+                <img src="../assets/img/Artboard 74-8.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                     <h4>Web 3</h4>
                     <p>Web</p>
-                    <a href="../assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery"
+                    <a href="../assets/img/Artboard 74-8.png" data-gallery="portfolioGallery"
+                        class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
+                    <a href="portfolio-details.html" class="details-link" title="More Details"><i
+                            class="bx bx-link"></i></a>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                <img src="../assets/img/Artboard 81-8.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                    <h4>Card 3</h4>
+                    <p>Card</p>
+                    <a href="../assets/img/Artboard 81-8.png" data-gallery="portfolioGallery"
+                        class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
+                    <a href="portfolio-details.html" class="details-link" title="More Details"><i
+                            class="bx bx-link"></i></a>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <img src="../assets/img/Artboard 92-8.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                    <h4>Web 3</h4>
+                    <p>Web</p>
+                    <a href="../assets/img/Artboard 92-8.png" data-gallery="portfolioGallery"
                         class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
                     <a href="portfolio-details.html" class="details-link" title="More Details"><i
                             class="bx bx-link"></i></a>

@@ -39,24 +39,24 @@
 
             <h1 class="logo"><a href="index.html">Equinox</a></h1>
             <!-- Uncomment below if you prefer to use an image logo -->
-            <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+            <!-- <a href="index.html" class="logo"><img src="../assets/img/logo.png" alt="" class="img-fluid"></a> -->
 
             <nav id="navbar" class="navbar">
                 <ul>
                     <li><a class="nav-link scrollto active" href="index.php?p=home">HOME</a></li>
-                    <li><a class="nav-link scrollto" href="#about">FOR PARTENERS</a></li>
+                    <li><a class="nav-link scrollto" href="#about">QUI SOMMES NOUS ?</a></li>
                     <li><a class="nav-link scrollto" href="#services">SERVICES</a></li>
                     <li><a class="nav-link scrollto " href="#portfolio">GALLERY</a></li>
-                    <li><a class="nav-link scrollto" href="#team">TEAM</a></li>
-                    <li class="dropdown"><a href="#"><span>ABOUT US</span> <i class="bi bi-chevron-down"></i></a>
+                    <li><a class="nav-link scrollto" href="#team">EQUIPE</a></li>
+                    <!-- <li class="dropdown"><a href="#"><span></span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li><a href="index.php?p=about">Equinox</a></li>
                             <li><a href="#">Parteners</a></li>
 
                         </ul>
-                    </li>
+                    </li> -->
                     <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-                    <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
+                    <li><a class="getstarted scrollto" href="#about">Suivez nous</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav>
@@ -74,9 +74,9 @@
                 EN QUALITE
                 D’IMPRESSION</h2>
             <div class="d-flex">
-                <a href="#about" class="btn-get-started scrollto">Get Started</a>
-                <a href="https://www.youtube.com/watch?v=chNKeXGFnrY" class="glightbox btn-watch-video"><i
-                        class="bi bi-play-circle"></i><span>Watch Video</span></a>
+                <a href="#about" class="btn-get-started scrollto">Suivez nous</a>
+                <a href="../assets/img/splashEquinox.mp4" class="glightbox btn-watch-video"><i
+                        class="bi bi-play-circle"></i><span>Play Video</span></a>
             </div>
         </div>
     </section>
@@ -100,9 +100,9 @@
                             <h3>Equinox</h3>
                             <p>
                                 A108 Adam Street <br>
-                                NY 535022, USA<br><br>
+                                NY 535022, DRC<br><br>
                                 <strong>Phone:</strong> +1 5589 55488 55<br>
-                                <strong>Email:</strong> info@example.com<br>
+                                <strong>Email:</strong> info@equinox.com<br>
                             </p>
                             <div class="social-links mt-3">
                                 <a href=" # " class="twitter"><i class=" bx bxl-twitter "></i></a>
@@ -115,13 +115,13 @@
                     </div>
 
                     <div class="col-lg-2 col-md-6 footer-links">
-                        <h4>Useful Links</h4>
+                        <h4>Menu</h4>
                         <ul>
-                            <li><i class=" bx bx-chevron-right "></i> <a href=" # ">Home</a></li>
-                            <li><i class=" bx bx-chevron-right "></i> <a href=" # ">About us</a></li>
+                            <li><i class=" bx bx-chevron-right "></i> <a href=" # ">Accueil</a></li>
+                            <li><i class=" bx bx-chevron-right "></i> <a href=" # ">Qui sommes nous ?</a></li>
                             <li><i class=" bx bx-chevron-right "></i> <a href=" # ">Services</a></li>
-                            <li><i class=" bx bx-chevron-right "></i> <a href=" # ">Terms of service</a></li>
-                            <li><i class=" bx bx-chevron-right "></i> <a href=" # ">Privacy policy</a></li>
+                            <li><i class=" bx bx-chevron-right "></i> <a href=" # ">Gallerie</a></li>
+                            <li><i class=" bx bx-chevron-right "></i> <a href=" # ">Equipe</a></li>
                         </ul>
                     </div>
 
