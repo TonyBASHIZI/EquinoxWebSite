@@ -297,6 +297,9 @@
                     <assets class="col-lg-6 order-1 order-lg-2 text-center">
                         <img src="../assets/img/pub6.PNG" alt="" class="img-fluid">
                 </div>
+                <div class="d-flex">
+                    <a href="#about" class="btn-get-started scrollto">voir plus</a>
+                </div>
             </div>
         </div>
         <div class="tab-pane" id="tab-3">
@@ -461,7 +464,7 @@
 
                 <div class="swiper-slide">
                     <div class="testimonial-item">
-                        <img src="../assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+                        <img src="../assets/img/clients/client-6.png" class="testimonial-img" alt="">
                         <h3>Partenaire</h3>
                         <h4>Equinox </h4>
                         <p>
@@ -474,7 +477,7 @@
 
                 <div class="swiper-slide">
                     <div class="testimonial-item">
-                        <img src="../assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+                        <img src="../assets/img/clients/client-5.png" class="testimonial-img" alt="">
                         <h3>Partenaire</h3>
                         <h4>Equinox </h4>
                         <p>
@@ -487,7 +490,7 @@
 
                 <div class="swiper-slide">
                     <div class="testimonial-item">
-                        <img src="../assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+                        <img src="../assets/img/clients/client-4.png" class="testimonial-img" alt="">
                         <h3>John Larson</h3>
                         <h4>Entrepreneur</h4>
                         <p>
@@ -653,6 +656,28 @@
                     <h4>Web 3</h4>
                     <p>Web</p>
                     <a href="../assets/img/Artboard 92-8.png" data-gallery="portfolioGallery"
+                        class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
+                    <a href="portfolio-details.html" class="details-link" title="More Details"><i
+                            class="bx bx-link"></i></a>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <img src="../assets/img/Artboard 82-8.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                    <h4>Equinox</h4>
+                    <p>Services</p>
+                    <a href="../assets/img/Artboard 82-8.png" data-gallery="portfolioGallery"
+                        class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
+                    <a href="portfolio-details.html" class="details-link" title="More Details"><i
+                            class="bx bx-link"></i></a>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <img src="../assets/img/Artboard 57-8.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                    <h4>Equinox</h4>
+                    <p>Services</p>
+                    <a href="../assets/img/Artboard 56-8.png" data-gallery="portfolioGallery"
                         class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
                     <a href="portfolio-details.html" class="details-link" title="More Details"><i
                             class="bx bx-link"></i></a>
