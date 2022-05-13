@@ -43,11 +43,11 @@
 
             <nav id="navbar" class="navbar">
                 <ul>
-                    <li><a class="nav-link scrollto active" href="index.php?p=home">ACUEIL</a></li>
-                    <li><a class="nav-link scrollto" href="#about">QUI SOMMES NOUS ?</a></li>
-                    <li><a class="nav-link scrollto" href="#services">SERVICES</a></li>
-                    <li><a class="nav-link scrollto " href="#portfolio">GALLERY</a></li>
-                    <li><a class="nav-link scrollto" href="#team">EQUIPE</a></li>
+                    <li><a class="nav-link scrollto active" href="index.php?p=home">ACCUEIL</a></li>
+                    <li><a class="nav-link scrollto" href="index.php?p=home">QUI SOMMES NOUS ?</a></li>
+                    <li><a class="nav-link scrollto" href="index.php?p=home">SERVICES</a></li>
+                    <li><a class="nav-link scrollto " href="index.php?p=home">GALLERY</a></li>
+                    <li><a class="nav-link scrollto" href="index.php?p=home">EQUIPE</a></li>
                     <li class="dropdown"><a href="#"><span>SERVICES</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li><a href="index.php?p=about">Equinox</a></li>

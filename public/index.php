@@ -30,6 +30,9 @@ if ($page === 'home') {
 } else if ($page === 'about') {
 
     require ROOT . '/ressources/views/Client/pages/about.php';
+} else if ($page === 'service') {
+
+    require ROOT . '/ressources/views/Client/pages/panneaux.php';
 }
 
 
@@ -49,5 +52,7 @@ if ($page === 'home') {
 $content = ob_get_clean();
 
 if ($page === 'home' || $page === 'about') {
-    require ROOT . '/ressources/views/Client/layout/default.php';
+    require ROOT . '../ressources/views/Client/layout/default.php';
+} else {
+    require ROOT . '../ressources/views/Client/layout/defaultServices.php';
 }

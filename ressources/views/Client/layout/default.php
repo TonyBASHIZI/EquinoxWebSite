@@ -29,32 +29,45 @@
 
     <!-- Template Main CSS File -->
     <link href="../assets/css/style.css" rel="stylesheet">
+    <style>
+    #myVideo {
+        position: fixed;
+        right: 0;
+        bottom: 0;
+        min-width: 100%;
+        min-height: 100%;
+    }
+    </style>
+
+
+
 </head>
 
 <body>
 
     <!-- ======= Header ======= -->
-    <header id="header" class="fixed-top">
+    <header id="header" class="fixed-top" style="background-color: black;">
+
         <div class="container d-flex align-items-center justify-content-between">
 
             <h1 class="logo"><a href="index.html">Equinox</a></h1>
             <!-- Uncomment below if you prefer to use an image logo -->
-            <!-- <a href="index.html" class="logo"><img src="../assets/img/logo.png" alt="" class="img-fluid"></a> -->
+            <a href="index.html" class="logo"><img src="../assets/img/logo.png" alt="" class="img-fluid"></a>
 
             <nav id="navbar" class="navbar">
                 <ul>
-                    <li><a class="nav-link scrollto active" href="index.php?p=home">ACUEIL</a></li>
+                    <li><a class="nav-link scrollto active" href="index.php?p=home">ACCUEIL</a></li>
                     <li><a class="nav-link scrollto" href="#about">QUI SOMMES NOUS ?</a></li>
                     <li><a class="nav-link scrollto" href="#services">SERVICES</a></li>
                     <li><a class="nav-link scrollto " href="#portfolio">GALLERY</a></li>
                     <li><a class="nav-link scrollto" href="#team">EQUIPE</a></li>
-                    <li class="dropdown"><a href="#"><span>SERVICES</span> <i class="bi bi-chevron-down"></i></a>
+                    <!-- <li class="dropdown"><a href="#"><span>SERVICES</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li><a href="index.php?p=about">Equinox</a></li>
                             <li><a href="#">Parteners</a></li>
 
                         </ul>
-                    </li>
+                    </li> -->
                     <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
                     <li><a class="getstarted scrollto" href="#about">Suivez nous</a></li>
                 </ul>
@@ -68,6 +81,9 @@
 
     <!-- ======= Hero Section ======= -->
     <section id="hero">
+        <video autoplay muted loop id="myVideo">
+            <source src="../assets/img/splashEquinox.mp4" type="video/mp4">
+        </video>
         <div class="hero-container" data-aos="fade-up" data-aos-delay="150">
             <h1>Equinox Group</h1>
             <h2>LEADER
@@ -93,7 +109,7 @@
     <footer id="footer">
         <div class="footer-top">
             <div class="container">
-                <div class=" row ">
+                <div class="row">
 
                     <div class="col-lg-3 col-md-6">
                         <div class="footer-info">
@@ -165,13 +181,13 @@
             class="bi bi-arrow-up-short"></i></a>
 
     <!-- Vendor JS Files -->
-    <script src=" ../assets/vendor/purecounter/purecounter.js "></script>
-    <script src=" ../assets/vendor/aos/aos.js "></script>
-    <script src=" ../assets/vendor/bootstrap/js/bootstrap.bundle.min.js "></script>
-    <script src=" ../assets/vendor/glightbox/js/glightbox.min.js "></script>
-    <script src=" ../assets/vendor/isotope-layout/isotope.pkgd.min.js "></script>
-    <script src=" ../assets/vendor/swiper/swiper-bundle.min.js "></script>
-    <script src=" ../assets/vendor/php-email-form/validate.js "></script>
+    <script src="../assets/vendor/purecounter/purecounter.js "></script>
+    <script src="../assets/vendor/aos/aos.js "></script>
+    <script src="../assets/vendor/bootstrap/js/bootstrap.bundle.min.js "></script>
+    <script src="../assets/vendor/glightbox/js/glightbox.min.js "></script>
+    <script src="../assets/vendor/isotope-layout/isotope.pkgd.min.js "></script>
+    <script src="../assets/vendor/swiper/swiper-bundle.min.js "></script>
+    <script src="../assets/vendor/php-email-form/validate.js "></script>
 
     <!-- Template Main JS File -->
     <script src=" ../assets/js/main.js "></script>

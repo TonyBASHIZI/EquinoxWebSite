@@ -1,6 +1,6 @@
 <!-- ======= About Section ======= -->
 <section id="about" class="about">
-    <div class="container" data-aos="fade-up">
+    <div class="container" data-aos="fade-up" style="background-color: black; color:white;">
 
         <div class="row justify-content-end">
             <div class="col-lg-11">
@@ -186,6 +186,7 @@
 <!-- End Clients Section -->
 
 <!-- ======= Features Section ======= -->
+<!-- <section id="about-boxes" class="about-boxes"> -->
 <section id="features" class="features">
     <div class="container" data-aos="fade-up">
 
@@ -219,13 +220,14 @@
         <div class="tab-content">
             <div class="tab-pane active show" id="tab-1">
                 <div class="row">
-                    <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
+                    <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0" style="font-weight: bold;">
                         <h3>EQUINOX MÉDIA
                             GROUP
                         </h3>
                         <p class="fst-italic">
                             Nous sommes Equinox Média Group, un spécialiste de la concep tion, de l'impression, de
-                            l'image de marque et de l'emballage en RDC et dans la région de l'Afrique de l'Est. Depuis
+                            l'image de marque et de l'emballage en RDC et dans la région de l'Afrique de l'Est.
+                            Depuis
                             2013, nous avons réalisé un
 
                             très grand nombre de projets d'impression de haut niveau et obtenu un grand succès
@@ -281,14 +283,17 @@
                     <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
                         <h3>PARC DES PANNEAUX PUBLICITAIRES</h3>
                         <p>
-                            Nous disposons de plusieurs panneaux publicitaires dans les villes comme a Bukavu et bientot
+                            Nous disposons de plusieurs panneaux publicitaires dans les villes comme a Bukavu et
+                            bientot
                             partout dans le pays
                         </p>
 
                         <ul>
                             <li><i class="ri-check-double-line"></i> Port bwindi Bukavu dimension 10x8/1 faces</li>
-                            <li><i class="ri-check-double-line"></i> Place de l'independance dimension 10x6 faces 1</li>
-                            <li><i class="ri-check-double-line"></i> Hopital general/Port ihusi dimension 10x8 faces 1
+                            <li><i class="ri-check-double-line"></i> Place de l'independance dimension 10x6 faces 1
+                            </li>
+                            <li><i class="ri-check-double-line"></i> Hopital general/Port ihusi dimension 10x8 faces
+                                1
                             </li>
                             <li><i class="ri-check-double-line"></i> Stade funo dimension 12x6 faces 1</li>
                             <li><i class="ri-check-double-line"></i> Carrefour dimension 12x6 faces 1</li>
@@ -298,7 +303,7 @@
                         <img src="../assets/img/pub6.PNG" alt="" class="img-fluid">
                 </div>
                 <div class="d-flex">
-                    <a href="#about" class="btn-get-started scrollto">voir plus</a>
+                    <a href="index.php?p=service" class="btn-get-started scrollto">voir plus</a>
                 </div>
             </div>
         </div>
@@ -353,6 +358,7 @@
 
     </div>
 </section>
+
 <!-- End Features Section -->
 
 <!-- ======= Services Section ======= -->
@@ -368,7 +374,7 @@
             <div class="col-md-6">
                 <div class="icon-box">
                     <i class="bi bi-printer"></i>
-                    <h4><a href="#">PRESSE À IMPRIMER NUMÉRIQUE</a></h4>
+                    <h4><a href="index.php?p=service">PRESSE À IMPRIMER NUMÉRIQUE</a></h4>
                     <p>Nous sommes fiers de nos équipements avancés et sophistiqués en matière de presse d'impression
                         numérique pour la meilleure qualité possi ble dans le pays</p>
                 </div>
@@ -376,9 +382,18 @@
             <div class="col-md-6 mt-4 mt-md-0">
                 <div class="icon-box">
                     <i class="bi bi-printer"></i>
-                    <h4><a href="#">Presse numérique HP Indigo</a></h4>
+                    <h4><a href="index.php?p=service">PARC DES PANNEAUX </a></h4>
+                    <p>Grâce à la technologie d'impression nous imprimons et afficheons toutes sorte de publication
+                        sur nos panneaux de toute dimension nous sommes a votre disposition
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-6 mt-4 mt-md-0">
+                <div class="icon-box">
+                    <i class="bi bi-printer"></i>
+                    <h4><a href="index.php?p=service">Presse numérique HP Indigo</a></h4>
                     <p>Grâce à la technologie d'impression avancée de Select Kalaos, il est possible d'imprimer un livre
-                        ou autant que nécessaire à un moment donné. Quelle que soit la quantité imprimée, une qualité et
+                        ou autant que nécessaire à un moment donné Quelle que soit la quantité imprimée, une qualité et
                         un prix
                         supérieurs sont garantis. Nous proposons également l'impression de sécurité
                     </p>
@@ -387,7 +402,7 @@
             <div class="col-md-6 mt-4 mt-md-0">
                 <div class="icon-box">
                     <i class="bi bi-printer"></i>
-                    <h4><a href="#">L'IMPRESSION OFFSET</a></h4>
+                    <h4><a href="index.php?p=service">L'IMPRESSION OFFSET</a></h4>
                     <p>Équipés de nombreuses fonctions automatisées et tirant parti de nos systèmes d'exposition des
                         plaques par ordinateur, nous produisons des impressions d'une grande clarté et d'un grand niveau
                         de détail. Les tirages de grand volume ne souffrent pas de la qualité</p>
@@ -396,7 +411,7 @@
             <div class="col-md-6 mt-4 mt-md-0">
                 <div class="icon-box">
                     <i class="bi bi-printer"></i>
-                    <h4><a href="#">IMPRESSION GRAND FORMAT</a></h4>
+                    <h4><a href="index.php?p=service">IMPRESSION GRAND FORMAT</a></h4>
                     <p>Vous cherchez un moyen différent de faire passer votre message ? Rien ne fait une grande
                         impression comme l'impression grand format. Nous proposons l'impression de panneaux
                         événementiels, de grandes affiches, de panneaux d'affichage et de bannières qui peuvent être
@@ -406,7 +421,7 @@
             <div class="col-md-6 mt-4 mt-md-0">
                 <div class="icon-box">
                     <i class="bi bi-card-checklist"></i>
-                    <h4><a href="#">EMBALLAGE ET ÉTIQUETAGE</a></h4>
+                    <h4><a href="index.php?p=service">EMBALLAGE ET ÉTIQUETAGE</a></h4>
                     <p>L'emballage est devenu une partie importante du produit. Avec le bon matériau, la bonne
                         conception et la bonne fonction, l'emballage peut protéger le produit, communiquer la marque et
                         réduire l'impact envi ronnemental Cela crée de nouvelles opportunités commerciales et une
@@ -417,7 +432,7 @@
             <div class="col-md-6 mt-4 mt-md-0">
                 <div class="icon-box">
                     <i class="bi bi-printer"></i>
-                    <h4><a href="#">MATÉRIAUX DE PROMOTION</a></h4>
+                    <h4><a href="index.php?p=service">MATÉRIAUX DE PROMOTION</a></h4>
                     <p>Avec notre équipe d'experts en production, nous affichons avec fierté le profil de votre
                         entreprise et notre réputation va avec. Nous fournissons les produits de qualité supérieure que
                         vous méritez, pensez-y, nous l'encrons !</p>
