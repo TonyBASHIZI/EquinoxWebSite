@@ -10,8 +10,8 @@
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="../assets/img/favicon.png" rel="icon">
-    <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="../assets/img/equinox_media.png" rel="icon">
+    <link href="../assets/img/equinox_media.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
     <link
@@ -46,17 +46,22 @@
 <body>
 
     <!-- ======= Header ======= -->
-    <header id="header" class="fixed-top" style="background-color: black;">
+    <header id="header" class="fixed-top" style="background-color: #424242;">
 
         <div class="container d-flex align-items-center justify-content-between">
 
-            <h1 class="logo"><a href="index.html">Equinox</a></h1>
+            <h1 class="logo">
+                <a href="index.html" class="logo"><img src="../assets/img/equinox_media.png" alt=""
+                        class="img-fluid"></a>
+                <a href="index.html"></a>
+            </h1>
             <!-- Uncomment below if you prefer to use an image logo -->
-            <a href="index.html" class="logo"><img src="../assets/img/logo.png" alt="" class="img-fluid"></a>
+            <!-- <a href="index.html" class="logo"><img src="../assets/img/equinoxlogo.PNG" alt="" class="img-fluid"></a> -->
 
             <nav id="navbar" class="navbar">
                 <ul>
-                    <li><a class="nav-link scrollto active" href="index.php?p=home">ACCUEIL</a></li>
+                    <li><a class="nav-link scrollto active" href="index.php?p=home">ACCUEIL</a>
+                    </li>
                     <li><a class="nav-link scrollto" href="#about">QUI SOMMES NOUS ?</a></li>
                     <li><a class="nav-link scrollto" href="#services">SERVICES</a></li>
                     <li><a class="nav-link scrollto " href="#portfolio">GALLERY</a></li>

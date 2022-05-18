@@ -33,21 +33,10 @@ if ($page === 'home') {
 } else if ($page === 'service') {
 
     require ROOT . '/ressources/views/Client/pages/panneaux.php';
+} else if ($page === 'services') {
+
+    require ROOT . '/ressources/views/Client/pages/impression.php';
 }
-
-
-// if ($page === 'welcome') {
-
-//     require ROOT . '/ressources/views/admin/welcome.php';
-// } else if ($page === 'allsms') {
-
-//     require ROOT . '/ressources/views/admin/pages/allmessage.php';
-// } else if ($page === 'smsdetail') {
-
-//     require ROOT . '/ressources/views/admin/pages/detailmessage.php';
-// }
-
-
 
 $content = ob_get_clean();
 

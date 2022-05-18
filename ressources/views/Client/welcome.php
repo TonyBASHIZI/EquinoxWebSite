@@ -374,7 +374,7 @@
             <div class="col-md-6">
                 <div class="icon-box">
                     <i class="bi bi-printer"></i>
-                    <h4><a href="index.php?p=service">PRESSE À IMPRIMER NUMÉRIQUE</a></h4>
+                    <h4><a href="index.php?p=services">PRESSE À IMPRIMER NUMÉRIQUE</a></h4>
                     <p>Nous sommes fiers de nos équipements avancés et sophistiqués en matière de presse d'impression
                         numérique pour la meilleure qualité possi ble dans le pays</p>
                 </div>
@@ -391,7 +391,7 @@
             <div class="col-md-6 mt-4 mt-md-0">
                 <div class="icon-box">
                     <i class="bi bi-printer"></i>
-                    <h4><a href="index.php?p=service">Presse numérique HP Indigo</a></h4>
+                    <h4><a href="index.php?p=services">Presse numérique HP Indigo</a></h4>
                     <p>Grâce à la technologie d'impression avancée de Select Kalaos, il est possible d'imprimer un livre
                         ou autant que nécessaire à un moment donné Quelle que soit la quantité imprimée, une qualité et
                         un prix
@@ -402,7 +402,7 @@
             <div class="col-md-6 mt-4 mt-md-0">
                 <div class="icon-box">
                     <i class="bi bi-printer"></i>
-                    <h4><a href="index.php?p=service">L'IMPRESSION OFFSET</a></h4>
+                    <h4><a href="index.php?p=services">L'IMPRESSION OFFSET</a></h4>
                     <p>Équipés de nombreuses fonctions automatisées et tirant parti de nos systèmes d'exposition des
                         plaques par ordinateur, nous produisons des impressions d'une grande clarté et d'un grand niveau
                         de détail. Les tirages de grand volume ne souffrent pas de la qualité</p>
@@ -411,7 +411,7 @@
             <div class="col-md-6 mt-4 mt-md-0">
                 <div class="icon-box">
                     <i class="bi bi-printer"></i>
-                    <h4><a href="index.php?p=service">IMPRESSION GRAND FORMAT</a></h4>
+                    <h4><a href="index.php?p=services">IMPRESSION GRAND FORMAT</a></h4>
                     <p>Vous cherchez un moyen différent de faire passer votre message ? Rien ne fait une grande
                         impression comme l'impression grand format. Nous proposons l'impression de panneaux
                         événementiels, de grandes affiches, de panneaux d'affichage et de bannières qui peuvent être
@@ -421,7 +421,7 @@
             <div class="col-md-6 mt-4 mt-md-0">
                 <div class="icon-box">
                     <i class="bi bi-card-checklist"></i>
-                    <h4><a href="index.php?p=service">EMBALLAGE ET ÉTIQUETAGE</a></h4>
+                    <h4><a href="index.php?p=services">EMBALLAGE ET ÉTIQUETAGE</a></h4>
                     <p>L'emballage est devenu une partie importante du produit. Avec le bon matériau, la bonne
                         conception et la bonne fonction, l'emballage peut protéger le produit, communiquer la marque et
                         réduire l'impact envi ronnemental Cela crée de nouvelles opportunités commerciales et une
@@ -432,7 +432,7 @@
             <div class="col-md-6 mt-4 mt-md-0">
                 <div class="icon-box">
                     <i class="bi bi-printer"></i>
-                    <h4><a href="index.php?p=service">MATÉRIAUX DE PROMOTION</a></h4>
+                    <h4><a href="index.php?p=services">MATÉRIAUX DE PROMOTION</a></h4>
                     <p>Avec notre équipe d'experts en production, nous affichons avec fierté le profil de votre
                         entreprise et notre réputation va avec. Nous fournissons les produits de qualité supérieure que
                         vous méritez, pensez-y, nous l'encrons !</p>
@@ -772,73 +772,74 @@
 
 <!-- ======= Contact Section ======= -->
 <section id="contact" class="contact">
-    <div class="container" data-aos="fade-up" ">
+    <div class="container" data-aos="fade-up" " style=" background-color: black;padding-left: 10;padding-top:
+        10;padding-right: 10px;padding-bottom: 10px;color:white;">
 
-    <div class=" section-title">
-        <h2>Contact</h2>
-        <p>Contact Us</p>
-    </div>
+        <div class="section-title">
+            <h2>Contact</h2>
+            <p>Contact Us</p>
+        </div>
 
-    <div class="row">
+        <div class="row">
 
-        <div class=" col-lg-6 ">
+            <div class=" col-lg-6 ">
 
-            <div class=" row ">
-                <div class=" col-md-12 ">
-                    <div class=" info-box ">
-                        <i class=" bx bx-map "></i>
-                        <h3>Our Address</h3>
-                        <p>A108 Adam Street, New York, NY 535022</p>
+                <div class=" row ">
+                    <div class=" col-md-12 ">
+                        <div class=" info-box ">
+                            <i class=" bx bx-map "></i>
+                            <h3>Notre adresse</h3>
+                            <p>Blvd MULEY BENEZETH-10 Av. Tulipiers Bis</p>
+                        </div>
+                    </div>
+                    <div class=" col-md-6 ">
+                        <div class=" info-box mt-4 ">
+                            <i class=" bx bx-envelope "></i>
+                            <h3>Email</h3>
+                            <p>info@equinoxmediacd.com<br>contact@equinoxmediacd.com</p>
+                        </div>
+                    </div>
+                    <div class=" col-md-6 ">
+                        <div class=" info-box mt-4 ">
+                            <i class=" bx bx-phone-call "></i>
+                            <h3>Contact phone</h3>
+                            <p>+243 971 141 600<br>+243 971 141 600</p>
+                        </div>
                     </div>
                 </div>
-                <div class=" col-md-6 ">
-                    <div class=" info-box mt-4 ">
-                        <i class=" bx bx-envelope "></i>
-                        <h3>Email Us</h3>
-                        <p>info@example.com<br>contact@example.com</p>
+
+            </div>
+
+            <div class=" col-lg-6 mt-4 mt-lg-0">
+                <form action="forms/contact.php" method=" post " role=" form " class=" php-email-form ">
+                    <div class=" row ">
+                        <div class=" col-md-6 form-group ">
+                            <input type=" text " name=" name " class=" form-control " id=" name "
+                                placeholder=" Your Name " required>
+                        </div>
+                        <div class=" col-md-6 form-group mt-3 mt-md-0 ">
+                            <input type=" email " class=" form-control " name=" email " id=" email "
+                                placeholder=" Your Email " required>
+                        </div>
                     </div>
-                </div>
-                <div class=" col-md-6 ">
-                    <div class=" info-box mt-4 ">
-                        <i class=" bx bx-phone-call "></i>
-                        <h3>Call Us</h3>
-                        <p>+1 5589 55488 55<br>+1 6678 254445 41</p>
+                    <div class=" form-group mt-3 ">
+                        <input type=" text " class=" form-control " name=" subject " id=" subject "
+                            placeholder=" Subject " required>
                     </div>
-                </div>
+                    <div class=" form-group mt-3 ">
+                        <textarea class=" form-control " name=" message " rows=" 5 " placeholder=" Message "
+                            required></textarea>
+                    </div>
+                    <div class="my-3">
+                        <div class="loading">Loading</div>
+                        <div class="error-message"></div>
+                        <div class="sent-message">Your message has been sent. Thank you!</div>
+                    </div>
+                    <div class="text-center"><button type="submit">Send Message</button></div>
+                </form>
             </div>
 
         </div>
-
-        <div class=" col-lg-6 mt-4 mt-lg-0">
-            <form action="forms/contact.php" method=" post " role=" form " class=" php-email-form ">
-                <div class=" row ">
-                    <div class=" col-md-6 form-group ">
-                        <input type=" text " name=" name " class=" form-control " id=" name " placeholder=" Your Name "
-                            required>
-                    </div>
-                    <div class=" col-md-6 form-group mt-3 mt-md-0 ">
-                        <input type=" email " class=" form-control " name=" email " id=" email "
-                            placeholder=" Your Email " required>
-                    </div>
-                </div>
-                <div class=" form-group mt-3 ">
-                    <input type=" text " class=" form-control " name=" subject " id=" subject " placeholder=" Subject "
-                        required>
-                </div>
-                <div class=" form-group mt-3 ">
-                    <textarea class=" form-control " name=" message " rows=" 5 " placeholder=" Message "
-                        required></textarea>
-                </div>
-                <div class="my-3">
-                    <div class="loading">Loading</div>
-                    <div class="error-message"></div>
-                    <div class="sent-message">Your message has been sent. Thank you!</div>
-                </div>
-                <div class="text-center"><button type="submit">Send Message</button></div>
-            </form>
-        </div>
-
-    </div>
 
     </div>
 </section><!-- End Contact Section -->
