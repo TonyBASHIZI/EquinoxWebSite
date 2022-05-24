@@ -29,7 +29,7 @@
 
     <!-- Template Main CSS File -->
     <link href="../assets/css/style.css" rel="stylesheet">
-    <style>
+    <style type="text/css">
     #myVideo {
         position: fixed;
         right: 0;
@@ -73,7 +73,7 @@
 
                         </ul>
                     </li> -->
-                    <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+                    <li><a class="nav-link scrollto" href="index.php?p=contact">Contact</a></li>
                     <li><a class="getstarted scrollto" href="#about">Suivez nous</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>

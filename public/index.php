@@ -36,6 +36,12 @@ if ($page === 'home') {
 } else if ($page === 'services') {
 
     require ROOT . '/ressources/views/Client/pages/impression.php';
+} else if ($page === 'contact') {
+
+    require ROOT . '/ressources/views/Client/pages/contact.php';
+} else if ($page === 'send') {
+
+    require ROOT . '/ressources/views/Client/pages/testmail.php';
 }
 
 $content = ob_get_clean();
